@@ -1,0 +1,7 @@
+<templateSet group="custom">
+  <template name="dict" value="&lt;ui:with field=&quot;constantsDictionary&quot; type=&quot;com.transportexchangegroup.gwt.commons.client.constants.ConstantsDictionary&quot;/&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

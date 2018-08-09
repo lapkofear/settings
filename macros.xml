@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="run patch.sh">
+      <action id="ChooseRunConfiguration" />
+      <shortuct text="ENTER" />
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+    </macro>
+  </component>
+</application>
