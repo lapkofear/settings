@@ -11,6 +11,7 @@
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="cql" type="SCSS" />
       <mapping pattern="bt_creatives_dictionary" type="SQL" />
+      <mapping ext="tmpl" type="YAML" />
     </extensionMap>
   </component>
 </application>
