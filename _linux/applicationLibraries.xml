@@ -205,6 +205,13 @@
     </gwt-sdk-list>
   </component>
   <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="gradle-wrapper">
       <CLASSES>
         <root url="jar://$USER_HOME$/projects/events-persistance-provider/gradle/wrapper/gradle-wrapper.jar!/" />
