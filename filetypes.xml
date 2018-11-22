@@ -6,6 +6,8 @@
       <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="kafka-client" type="PLAIN_TEXT" />
       <mapping pattern="schema" type="PLAIN_TEXT" />
+      <mapping pattern="creativesCampaignsDict" type="PLAIN_TEXT" />
+      <mapping pattern="creativesCampaignDict" type="PLAIN_TEXT" />
       <mapping pattern="put_to_elastic_example" type="PLAIN_TEXT" />
       <mapping pattern="examples" type="PLAIN_TEXT" />
       <mapping ext="dev_build" type="PLAIN_TEXT" />
