@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="app_build" type="Native" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="requests_ids" type="PLAIN_TEXT" />
       <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="kafka-client" type="PLAIN_TEXT" />
