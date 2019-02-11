@@ -6,6 +6,7 @@
       <mapping pattern="requests_ids" type="PLAIN_TEXT" />
       <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="kafka-client" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsfileApp" type="PLAIN_TEXT" />
       <mapping pattern="schema" type="PLAIN_TEXT" />
       <mapping pattern="creativesCampaignsDict" type="PLAIN_TEXT" />
       <mapping pattern="creativesCampaignDict" type="PLAIN_TEXT" />
