@@ -1,26 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="app_build" type="Native" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="requests_ids" type="PLAIN_TEXT" />
       <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="kafka-client" type="PLAIN_TEXT" />
-      <mapping pattern="creativesCampaignsDict" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileApp" type="PLAIN_TEXT" />
       <mapping pattern="schema" type="PLAIN_TEXT" />
+      <mapping pattern="creativesCampaignsDict" type="PLAIN_TEXT" />
       <mapping pattern="creativesCampaignDict" type="PLAIN_TEXT" />
       <mapping pattern="put_to_elastic_example" type="PLAIN_TEXT" />
       <mapping pattern="examples" type="PLAIN_TEXT" />
       <mapping ext="dev_build" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="cql" type="SCSS" />
       <mapping pattern="bt_creatives_dictionary" type="SQL" />
-      <removed_mapping ext="cql" type="SQL" />
       <mapping ext="tmpl" type="YAML" />
     </extensionMap>
   </component>
