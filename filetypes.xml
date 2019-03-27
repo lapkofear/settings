@@ -13,6 +13,7 @@
       <mapping pattern="creativesCampaignDict" type="PLAIN_TEXT" />
       <mapping pattern="put_to_elastic_example" type="PLAIN_TEXT" />
       <mapping pattern="examples" type="PLAIN_TEXT" />
+      <mapping ext="cong" type="PLAIN_TEXT" />
       <mapping ext="dev_build" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
